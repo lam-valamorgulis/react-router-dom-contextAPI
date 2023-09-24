@@ -1,0 +1,18 @@
+{
+  "todolists": [
+    {
+      "task": "Learning Reactjs",
+      "tag": "Learning",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "Learning react is great",
+      "id": 1
+    },
+    {
+      "task": "Running 15km per week",
+      "tag": "Running",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "Running is great",
+      "id": 2
+    }
+  ]
+}
